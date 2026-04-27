@@ -97,11 +97,10 @@ docs/batch_*.jsonl
 docs/local/
 
 # Database files
-# Database files - nodes.db is now tracked directly
-# data/*.db
-data/*.db-journal
-data/*.db.bak
-data/*.db.backup
+*.db
+*.db-journal
+*.db.bak
+*.db.backup
 !data/.gitkeep
 !data/nodes.db
 

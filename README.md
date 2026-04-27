@@ -959,6 +959,10 @@ npm run test:bench          # Performance benchmarks
 
 For detailed testing documentation, see [Testing Architecture](./docs/testing-architecture.md).
 
+## Status
+
+Actively maintained. See [CHANGELOG.md](CHANGELOG.md).
+
 ## 📦 License
 
 MIT License - see [LICENSE](LICENSE) for details.
